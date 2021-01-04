@@ -1,0 +1,25 @@
+
+@media(max-width:1463px){
+        #number{display:none;}
+        #list{margin-left:auto;}
+        #searchbar{
+    margin-left:auto;
+        }
+    }
+@media(min-width:758px){
+    #list ul{font-size:20px;}
+    }
+@media(max-width:758px){
+    #list ul{font-size:15px;}
+}
+@media(max-width:602px){
+    #list{
+        display:none;
+    }
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+  }
+
