@@ -1,1 +1,1 @@
-## Just Created a web design.
+## Just Created a web page.
